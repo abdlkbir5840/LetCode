@@ -18,8 +18,8 @@ public class Main {
 
         System.out.println("Hello world!");
 
-        String s1 = "sadbutaassadfffsad";
-        String s2 = "ssad";
+        String s1 = "sadbutsad";
+        String s2 = "sad";
         System.out.println(strStr(s1, s2));
     }
 }
